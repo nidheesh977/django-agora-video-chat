@@ -1,0 +1,2 @@
+django==4.0.1
+agora-token-builder==1.0.0

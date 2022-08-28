@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+!))gg*vf11%y_1$x2ul=7+@#xnf&8ac(*dgs8p)pe34uh8aq5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["nid-video-chat.herokuapp.com/", "127.0.0.1"]
+ALLOWED_HOSTS = ["nid-video-chat.herokuapp.com", "127.0.0.1"]
 
 # Application definition
 
